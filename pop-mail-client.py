@@ -1,4 +1,6 @@
 # Dart - Security BY Equinockx
+# https://amigo.hostgator.mx/hydracorpteam
+
 import poplib
 from email.message import EmailMessage
 
